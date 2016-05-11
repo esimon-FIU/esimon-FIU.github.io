@@ -6,6 +6,7 @@
 	background-color:#FAFAFA;
     border-spacing: 0;
     border-collapse: separate;
+	margin-bottom:30px;
 }
 
 tr.header-row{
@@ -29,7 +30,7 @@ td img{
 }
 
 
-h2{
+h3{
 	margin:0;
 	padding:10px 10px 15px 10px;
 	border-bottom:#FFFFFF 5px solid;
