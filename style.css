@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.info-table{
+	width:100%;
+	background-color:#FAFAFA;
+    border-spacing: 0;
+    border-collapse: separate;
+}
+
+tr.header-row{
+	background-color:#F5F5F5;
+}
+
+td.photo{ 
+    padding: 10px;
+	width:160px;
+}
+
+td.icon{
+	height:2em;
+	width:30px;
+	/*padding:10px 0 0 0;*/
+}
+
+td img{
+	width:140px;	
+	height:auto;
+}
+
+
+h2{
+	margin:0;
+	padding:10px 10px 15px 10px;
+	border-bottom:#FFFFFF 5px solid;
+}
