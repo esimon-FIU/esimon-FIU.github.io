@@ -114,15 +114,12 @@
 }
 
 .video {
-	/*display:inline-block;
-	float:left;
-	height:100%;*/
 	padding:0px 0px 10px 20px;
 }
 
 .video iframe {
-	width: 500px;
-	height: 281px;
+	width: 500px !important;
+	height: 281px !important;
 	border:#bbbbbb 3px solid;
 	border-radius: 5px;
 	float:left;
@@ -165,8 +162,9 @@
 }
 
 .dlbox {
-	margin:0px 20px 0px 20px;
+	width: auto;
 	text-align: center;
+	margin:0px 20px 0px 20px;
 }
 
 .dlbox img {
