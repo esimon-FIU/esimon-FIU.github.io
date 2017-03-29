@@ -3,7 +3,7 @@
 // Link CSS
   var link = document.createElement("link");
   link.setAttribute("rel","stylesheet");
-  link.setAttribute("href","https://fiu.blackboard.com/bbcswebdav/xid-60664657_1");
+  link.setAttribute("href","https://esimon-fiu.github.io/ODM-style.css");
   var head = document.getElementsByTagName("head")[0];
   head.appendChild(link);
 
