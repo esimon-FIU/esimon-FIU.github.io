@@ -43,7 +43,7 @@
 	padding:1px;
 }
 
-#footer{
+.footer{
 	width: 100%;
 	height:auto;
 	float:left;
@@ -52,6 +52,19 @@
 	background-color: #002D62;
 	border-bottom:#C5960C 5px solid;
     border-radius: 5px 5px 5px 5px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.footer a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.footer a:hover {
+	text-decoration:underline;
+	transition: all 0.25s ease;
+	font-weight:bold;
 }
 
 .title h1 {
