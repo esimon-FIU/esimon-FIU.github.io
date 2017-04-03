@@ -59,13 +59,16 @@
 .footer a {
 	color: #FFFFFF;
 	text-decoration: none;
-	margin-bottom: 1em;
 }
 
 .footer a:hover {
 	text-decoration:underline;
 	transition: all 0.25s ease;
 	font-weight:bold;
+}
+
+.footer img {
+	margin-bottom: 1em;
 }
 
 .title h1 {
